@@ -6,6 +6,10 @@ Database: Mongodb
 Realtime implement: Pusher
 Server: Firebase(for FE), Heroku(for BE)
 
+<p align="center">
+<img src="https://i.imgur.com/GrCsBqX.png" alt="draw.io" width="700"/>
+</p>
+
 ## Online Demo Link(Deploy on firebase)
 
 https://whatsapp-mern-ebcc2.web.app/
