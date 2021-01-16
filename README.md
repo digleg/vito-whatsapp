@@ -43,6 +43,6 @@ And we implement the realtime messages with pusher (similiar to web-socket)
 
 ## Reference Links
 
-https://dashboard.heroku.com/
-https://firebase.google.com/
+https://dashboard.heroku.com/ <br/>
+https://firebase.google.com/ <br/>
 https://pusher.com/
